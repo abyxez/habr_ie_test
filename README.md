@@ -50,7 +50,7 @@ python3 manage.py runserver
 
 ```json
 {
-    "username": username, "password": password
+    "username": "your_superuser_username", "password": "your_superuser_password"
 }
 ```
 

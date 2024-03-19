@@ -46,7 +46,7 @@ python3 manage.py runserver
 
 Чтобы осуществить проверку POST запроса, потребуется аутентификация:
 
-`POST <localhost>/api-token-auth/` ( eg Postman)
+`POST /api-token-auth/` ( eg Postman)
 
 ```json
 {
